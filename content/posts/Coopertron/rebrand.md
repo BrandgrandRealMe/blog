@@ -20,7 +20,7 @@ We've heard your feedback, and we're delighted to unveil our brand-new gallery s
 
 Gone are the days of asking the bot for pictures. Our new gallery offers searching and sorting of all the DB pictures. Whether you're looking for 148's Fire robot picture or looking for your own fire robot picture, the Coopertron Gallery is your go-to destination to immerse yourself in our visual story.
 
-**Click here to explore the new Coopertron Gallery: [Insert Link to New Gallery Here]**
+**Click here to explore the new Coopertron Gallery: [Click Me](https://frcrobots.brandgrand.rocks/)**
 
 ## Quick Access: Introducing the New Gallery Command!
 
