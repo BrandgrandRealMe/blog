@@ -14,8 +14,6 @@ This change reflects our additions of other things not related to TBA. We believ
 
 While our name is changing, our commitment to a cool bot remains our top priority. We're incredibly excited about this new chapter and look forward to continuing to serve your Discord server under the Coopertron banner. Get ready for even more exciting features and improvements as we move forward!
 
-Sounds like you've got some exciting updates for your blog! Let's flesh this out and make it a bit more engaging for your readers. Here's a revised version:
-
 ## Introducing Our Sleek New Gallery!
 
 We've heard your feedback, and we're delighted to unveil our brand-new gallery site! This dedicated space has been designed from the ground up to provide you with a seamless and visually stunning experience as you explore all the captivating photos within our database.
