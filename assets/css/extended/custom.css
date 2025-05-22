@@ -1,0 +1,49 @@
+.newsletterPage {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: calc(90vh - var(--footer-height) - var(--header-height));;
+  padding: 20px;
+}
+
+.newsletterContainer {
+  padding: 40px;
+  border-radius: 12px;
+  max-width: 500px;
+  width: 100%;
+  text-align: center;
+}
+
+.newsletterContainer h2 {
+  font-size: 2rem;
+  font-weight: 700;
+  color: var(--primary); /* Dark text for contrast */
+  margin-bottom: 16px;
+}
+
+.newsletterContainer p {
+  font-size: 1.1rem;
+  color: var(--secondary); /* Slightly lighter text */
+  margin-bottom: 24px;
+  line-height: 1.5;
+}
+
+.newsletterContainer iframe {
+  width: 100% !important; /* Ensure iframe takes full container width */
+  max-width: 100%;
+}
+
+/* Responsive design for smaller screens */
+@media (max-width: 600px) {
+  .newsletterContainer {
+    padding: 20px;
+  }
+
+  .newsletterContainer h2 {
+    font-size: 1.5rem;
+  }
+
+  .newsletterContainer p {
+    font-size: 1rem;
+  }
+}
