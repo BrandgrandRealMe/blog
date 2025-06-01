@@ -15,52 +15,7 @@ public_folder: "/uploads"
 collections:
   - name: base
     label: Base
-    folder: "content/posts"
-    create: true
-    slug: "{{slug}}"
-    preview_path: '{{slug}}'
-    editor:
-      preview: true
-    fields:
-      - { name: "title", label: "Title", widget: "string" }
-      - { name: "date", label: "Date", widget: "datetime" }
-      - { name: "tags", label: "Tags", widget: "list" }
-      - { name: "draft", label: "Draft", widget: "boolean" }
-      - { name: "description", label: "Description", widget: "string" }
-      - { name: "body", label: "Body", widget: "markdown" }
-  - name: android
-    label: Android
-    folder: "content/posts/android"
-    create: true
-    slug: "{{slug}}"
-    preview_path: '{{slug}}'
-    editor:
-      preview: true
-    fields:
-      - { name: "title", label: "Title", widget: "string" }
-      - { name: "date", label: "Date", widget: "datetime" }
-      - { name: "tags", label: "Tags", widget: "list" }
-      - { name: "draft", label: "Draft", widget: "boolean" }
-      - { name: "description", label: "Description", widget: "string" }
-      - { name: "body", label: "Body", widget: "markdown" }
-  - name: coopertron
-    label: Coopertron
-    folder: "content/posts/Coopertron"
-    create: true
-    slug: "{{slug}}"
-    preview_path: '{{slug}}'
-    editor:
-      preview: true
-    fields:
-      - { name: "title", label: "Title", widget: "string" }
-      - { name: "date", label: "Date", widget: "datetime" }
-      - { name: "tags", label: "Tags", widget: "list" }
-      - { name: "draft", label: "Draft", widget: "boolean" }
-      - { name: "description", label: "Description", widget: "string" }
-      - { name: "body", label: "Body", widget: "markdown" }
-  - name: cyberbot
-    label: CyberBot
-    folder: "content/posts/CyberBot"
+    folder: "content/_posts"
     create: true
     slug: "{{slug}}"
     preview_path: '{{slug}}'
