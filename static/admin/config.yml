@@ -1,12 +1,12 @@
-site_url: https://www.yourdomain.com
-display_url: https://www.yourdomain.com
+site_url: https://blog.brandgrand.rocks
+display_url: https://blog.brandgrand.rocks
 publish_mode: editorial_workflow
 show_preview_links: true
 backend:
   name: github
   repo: user/repository
   branch: main
-  base_url: https://www.yourdomain.com
+  base_url: https://blog.brandgrand.rocks
   auth_endpoint: /api/auth
   squash_merges: true
   preview_context: 'cloudflare preview deploy'
