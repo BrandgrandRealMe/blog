@@ -1,0 +1,31 @@
+site_url: https://www.yourdomain.com
+display_url: https://www.yourdomain.com
+publish_mode: editorial_workflow
+show_preview_links: true
+backend:
+  name: github
+  repo: user/repository
+  branch: main
+  base_url: https://www.yourdomain.com
+  auth_endpoint: /api/auth
+  squash_merges: true
+  preview_context: 'cloudflare preview deploy'
+media_folder: "static/uploads"
+public_folder: "/uploads"
+collections:
+  - name: articles
+    label: Articles
+    folder: "content/articles"
+    create: true
+    slug: "{{slug}}"
+    preview_path: '{{slug}}'
+    editor:
+      preview: true
+    fields:
+      - { name: "title", label: "Title", widget: "string" }
+      - { name: "date", label: "Date", widget: "date" }
+      - { name: "tags", label: "Tags", widget: "list" }
+      - { name: "draft", label: "Draft", widget: "boolean" }
+      - { name: "description", label: "Description", widget: "string" }
+      
+      - { name: "body", label: "Body", widget: "markdown" }
