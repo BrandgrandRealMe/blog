@@ -15,7 +15,7 @@ public_folder: "/uploads"
 collections:
   - name: articles
     label: Articles
-    folder: "content/posts/*"
+    folder: "content/posts/"
     create: true
     slug: "{{slug}}"
     preview_path: '{{slug}}'
