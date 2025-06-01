@@ -4,7 +4,7 @@ publish_mode: editorial_workflow
 show_preview_links: true
 backend:
   name: github
-  repo: user/repository
+  repo: BrandgrandRealMe/blog
   branch: main
   base_url: https://blog.brandgrand.rocks
   auth_endpoint: /api/auth
