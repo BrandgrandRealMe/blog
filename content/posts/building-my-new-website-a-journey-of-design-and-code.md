@@ -1,6 +1,6 @@
 ---
 title: "Building My New Website: A Journey of Design and Code"
-date: 2025-06-05T14:38:27.676Z
+date: 2025-06-05T15:19:08.717Z
 tags:
   - web development
   - JavaScript
