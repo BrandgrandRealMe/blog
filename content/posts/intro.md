@@ -3,6 +3,7 @@ title: "Blog Introduction"
 date: 2025-05-05
 weight: 1
 description: "The intro to my blog. Duh :)"
+excludeFromRSS: true
 ---
 ## Hello World! Welcome to My Developer Journey
 

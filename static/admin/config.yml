@@ -25,7 +25,7 @@ collections:
       - { name: "title", label: "Title", widget: "string" }
       - { name: "date", label: "Date", widget: "datetime" }
       - { name: "tags", label: "Tags", widget: "list" }
-      - { name: "draft", label: "Draft", widget: "boolean" }
+      - { name: "rsshide", label: "Hide in RSS", widget: "boolean" }
       - { name: "description", label: "Description", widget: "string" }
       - { name: "body", label: "Body", widget: "markdown" }
   - name: cyberbot
@@ -40,7 +40,7 @@ collections:
       - { name: "title", label: "Title", widget: "string" }
       - { name: "date", label: "Date", widget: "datetime" }
       - { name: "tags", label: "Tags", widget: "list" }
-      - { name: "draft", label: "Draft", widget: "boolean" }
+      - { name: "rsshide", label: "Hide in RSS", widget: "boolean" }
       - { name: "description", label: "Description", widget: "string" }
       - { name: "body", label: "Body", widget: "markdown" }
   - name: coopertron
@@ -55,7 +55,7 @@ collections:
       - { name: "title", label: "Title", widget: "string" }
       - { name: "date", label: "Date", widget: "datetime" }
       - { name: "tags", label: "Tags", widget: "list" }
-      - { name: "draft", label: "Draft", widget: "boolean" }
+      - { name: "rsshide", label: "Hide in RSS", widget: "boolean" }
       - { name: "description", label: "Description", widget: "string" }
       - { name: "body", label: "Body", widget: "markdown" }
   - name: android
@@ -70,6 +70,6 @@ collections:
       - { name: "title", label: "Title", widget: "string" }
       - { name: "date", label: "Date", widget: "datetime" }
       - { name: "tags", label: "Tags", widget: "list" }
-      - { name: "draft", label: "Draft", widget: "boolean" }
+      - { name: "rsshide", label: "Hide in RSS", widget: "boolean" }
       - { name: "description", label: "Description", widget: "string" }
       - { name: "body", label: "Body", widget: "markdown" }
