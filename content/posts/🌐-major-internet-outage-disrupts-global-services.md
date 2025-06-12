@@ -1,6 +1,6 @@
 ---
 title: 🌐 Major Internet Outage Disrupts Global Services
-date: 2025-06-12T20:41:11.194Z
+date: 2025-06-12T20:42:22.058Z
 tags:
   - Internet Outage
   - Google Cloud
