@@ -110,3 +110,16 @@ For now, services are mostly stabilizing, but today's events are a clear reminde
 
 🧵 **Stay tuned for updates. If your services are still down, check official status dashboards or social media for the latest.**
 
+---
+
+Certainly! Here's a clean **Sources** section you can add to the end of your blog post:
+
+---
+
+### 📚 Sources
+
+* [TechCrunch – A lot of the internet is down right now](https://techcrunch.com/2025/06/12/a-lot-of-the-internet-is-down-right-now/)
+* [BleepingComputer – Google Cloud and Cloudflare hit by widespread service outages](https://www.bleepingcomputer.com/news/technology/google-cloud-and-cloudflare-hit-by-widespread-service-outages/)
+* [Google Cloud Status Dashboard](https://status.cloud.google.com/)
+* [Cloudflare Status Page](https://www.cloudflarestatus.com/)
+* [DownDetector Outage Reports](https://downdetector.com/)
