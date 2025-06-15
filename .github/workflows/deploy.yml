@@ -29,7 +29,7 @@ jobs:
           node-version: lts/*
 
       - name: Install step
-        run: "npm i hugo"
+        run: "wget https://github.com/gohugoio/hugo/releases/download/v0.112.7/hugo_0.112.7_Linux-64bit.deb && sudo dpkg -i hugo_0.112.7_Linux-64bit.deb"
 
       - name: Build step
         run: "hugo --minify"
