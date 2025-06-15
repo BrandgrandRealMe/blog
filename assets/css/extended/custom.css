@@ -57,19 +57,14 @@
 }
 
 /* Change the text color of the comment input area */
-.cb-comment-form textarea {
+#commentbox textarea {
   color: #4d8cff !important;
   border-color: #4d8cff !important;
 }
 
 /* Style buttons (e.g., submit button) */
-.cb-comment-form button {
+#commentbox button {
   background-color: #4d8cff !important;
   border-color: #4d8cff !important;
   color: #ffffff !important; /* White text for contrast */
-}
-
-/* Style the subtext below the comment form */
-.cb-subtext {
-  color: #4d8cff !important;
 }
