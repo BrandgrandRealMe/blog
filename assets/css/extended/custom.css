@@ -48,9 +48,28 @@
   }
 }
 
-#commentbox {
+/* Comment Box*/
+#commentbox { 
   margin-top: 20px;
-  border: 1px solid #e0e0e0;
+  border: 1px solid #4d8cff;
   padding: 15px;
   border-radius: 8px;
+}
+
+/* Change the text color of the comment input area */
+.cb-comment-form textarea {
+  color: #4d8cff !important;
+  border-color: #4d8cff !important;
+}
+
+/* Style buttons (e.g., submit button) */
+.cb-comment-form button {
+  background-color: #4d8cff !important;
+  border-color: #4d8cff !important;
+  color: #ffffff !important; /* White text for contrast */
+}
+
+/* Style the subtext below the comment form */
+.cb-subtext {
+  color: #4d8cff !important;
 }
