@@ -55,16 +55,3 @@
   padding: 15px;
   border-radius: 8px;
 }
-
-/* Change the text color of the comment input area */
-#commentbox textarea {
-  color: #4d8cff !important;
-  border-color: #4d8cff !important;
-}
-
-/* Style buttons (e.g., submit button) */
-#commentbox button {
-  background-color: #4d8cff !important;
-  border-color: #4d8cff !important;
-  color: #ffffff !important; /* White text for contrast */
-}
