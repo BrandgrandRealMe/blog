@@ -12,6 +12,7 @@ minify:
   minifyOutput: true
 
 params:
+  comments: true
   mainSections:
     - posts
     - Coopertron
