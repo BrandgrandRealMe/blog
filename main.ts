@@ -1,6 +1,9 @@
 import { serveDir } from "https://deno.land/std@0.224.0/http/file_server.ts";
 
-Deno.serve((req) => serveDir(req, {
-  fsRoot: "./public",
-  quiet: true,
-}));
+Deno.serve((req) =>
+    serveDir(req, {
+      fsRoot: "./public",  // Make sure this matches the folder in your repo
+      quiet: true,
+    }),
+  );
+  
